@@ -1,0 +1,14 @@
+[02-Nov-2022 01:41:59 UTC] WordPress database error Duplicate column name 'mobile' for query ALTER TABLE `wpew_litespeed_url_file`
+				ADD COLUMN `mobile` tinyint(4) NOT NULL COMMENT "mobile=1",
+				ADD COLUMN `webp` tinyint(4) NOT NULL COMMENT "webp=1"
+			 made by Lsc\Wp\UserCommand::run, Lsc\Wp\UserCommand->runAsUser, Lsc\Wp\WPCaller::getInstance, Lsc\Wp\WPCaller->__construct, Lsc\Wp\WPCaller->init, Lsc\Wp\WPCaller->initWp, include('/plugins/litespeed-cache/litespeed-cache.php'), run_litespeed_cache, LiteSpeed\Root::cls, LiteSpeed\Core->__construct, LiteSpeed\Conf->init, LiteSpeed\Conf->_conf_db_init, LiteSpeed\Data->conf_upgrade, call_user_func, litespeed_update_5_3
+[03-Nov-2022 23:23:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function has() on null in /home/myfuycnk/devergehub.com/wp-includes/l10n.php:1268
+Stack trace:
+#0 /home/myfuycnk/devergehub.com/wp-includes/l10n.php(1303): _load_textdomain_just_in_time('litespeed-cache')
+#1 /home/myfuycnk/devergehub.com/wp-includes/l10n.php(187): get_translations_for_domain('litespeed-cache')
+#2 /home/myfuycnk/devergehub.com/wp-includes/l10n.php(299): translate('Queue cleared s...', 'litespeed-cache')
+#3 /home/myfuycnk/devergehub.com/wp-content/plugins/litespeed-cache/src/root.cls.php(185): __('Queue cleared s...', 'litespeed-cache')
+#4 /home/myfuycnk/devergehub.com/wp-content/plugins/litespeed-cache/src/purge.cls.php(365): LiteSpeed\Root->clear_q('ucss')
+#5 /home/myfuycnk/devergehub.com/wp-content/plugins/litespeed-cache/src/purge.cls.php(187): LiteSpeed\Purge->_purge_all_cssjs(true)
+#6 /home/myfuycnk/devergehub.com/wp-content/plugins/litespeed-cache/src/purge.cls.php(170): LiteSpeed\Purge->_purge_all(false)
+#7 /home/myfuycnk/devergehub.com/wp-content/plugin in /home/myfuycnk/devergehub.com/wp-includes/l10n.php on line 1268

@@ -1,0 +1,2 @@
+[30-Nov-2022 19:05:24 America/New_York] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/myfuycnk/devergehub.com/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[30-Nov-2022 19:09:04 America/New_York] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/myfuycnk/devergehub.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17

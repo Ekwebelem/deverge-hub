@@ -1,0 +1,32 @@
+[16-Sep-2022 19:22:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php on line 1
+[16-Sep-2022 20:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php on line 1
+[16-Sep-2022 21:32:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php on line 1
+[06-Oct-2022 07:53:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php on line 1
+[07-Oct-2022 11:14:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php on line 1
+[07-Oct-2022 11:14:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php on line 1
+[09-Jan-2023 13:43:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php on line 1
+[29-May-2023 20:10:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/myfuycnk/devergehub.com/wp-content/themes/docent/index.php on line 1
